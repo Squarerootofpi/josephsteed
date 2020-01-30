@@ -27,6 +27,8 @@
  • A predicate logic graph that implements formal logic and depth first searching to analyze the validity of various arguments 
  • C++ implementation with personal data structures
 
+## Sources:
+
 0. This is part of a private repository in BYU FHTL -- website: https://fhtl.byu.edu. App will be on https://indexing.fhtl.byu.edu
 1. https://github.com/Squarerootofpi/CS236
 2. http://creatorof.jsearch.org/
